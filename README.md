@@ -1,7 +1,7 @@
 # 🏹 Mahabharatham VR
 
 <p align="center">
-  <img src="Images/Banner.jpg" width="100%">
+  <img src="Images/Banner.png" width="100%">
 </p>
 
 ## 📖 Overview
@@ -40,13 +40,13 @@ https://youtu.be/3XmUOb1eJl8
 ## 📸 Gallery
 
 <p align="center">
-<img src="Images/Gameplay1.jpg" width="45%">
-<img src="Images/Gameplay2.jpg" width="45%">
+<img src="Images/Gameplay1.png" width="45%">
+<img src="Images/Gameplay2.png" width="45%">
 </p>
 
 <p align="center">
-<img src="Images/Gameplay3.jpg" width="45%">
-<img src="Images/Gameplay4.jpg" width="45%">
+<img src="Images/Gameplay3.png" width="45%">
+<img src="Images/Gameplay4.png" width="45%">
 </p>
 
 ---
